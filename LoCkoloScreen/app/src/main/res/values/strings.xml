@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">LoCkoloScreen</string>
-    <string name="recever_name">LoCkoloScreen$DeviceAdminSampleReceiver</string>
-</resources>
