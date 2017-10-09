@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoCkoloScreen</string>
+    <string name="recever_name">LoCkoloScreen$DeviceAdminSampleReceiver</string>
+    <string name="app_desc">Erase all data</string>
+</resources>
